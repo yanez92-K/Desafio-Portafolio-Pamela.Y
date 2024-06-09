@@ -1,0 +1,82 @@
+*html{
+    font-size: 16px;
+}
+body { 
+  font-family: "Roboto Mono", monospace !important;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  background-color: darkgrey;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+.navbar-brand {
+  display: inline-block;
+  vertical-align: middle;
+  width: 200px;
+  padding-left: 100px;
+}
+
+.navbar-brand img {
+  display: block;
+  width: 100px;
+  height:100px;
+}
+
+#Hero-Section {
+  background-image: url("../img/bg2.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+
+.list-educacion {
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  width: 100%;
+  font-size: 1.25rem; 
+}
+.section-heading {
+  font-size: 3rem;
+  display: flex;
+  position: relative
+}
+/* Dashed red border */
+.hr.new2 {
+  border-top: yellow;
+}
+.section-heading-lg {
+  font-size: 3rem;
+}
+.font-cursos{
+    font-size: 3rem !important; 
+}
+.educacion{
+    margin: 50px;
+    padding: 50px;
+}
+.carousel-inner{
+    width: 300px;
+    height: 500px;
+}
+.form-img{
+    float: left;
+    width: 600px;
+    height: 600px;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.container-form{
+    width: 1000px
+    
+}
+.img-footer{
+    width: 20%;
+    height: 130px;
+    margin-bottom: 50px;
+}
+.h2-hablemos{
+    font-size: 6rem !important; 
+}
